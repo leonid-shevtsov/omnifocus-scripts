@@ -1,3 +1,5 @@
+# Stores number of completed projects and tasks per day
+
 require 'bundler'
 require 'sequel'
 require 'logger'

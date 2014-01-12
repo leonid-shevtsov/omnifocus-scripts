@@ -1,3 +1,5 @@
+# Flags all tasks that are weren't modified in the last 2 weeks
+
 require 'bundler'
 require 'sequel'
 require 'logger'
